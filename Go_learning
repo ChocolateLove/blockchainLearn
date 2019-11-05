@@ -7,4 +7,7 @@
   （静态和动态的区别：https://www.cnblogs.com/raind/p/8551791.html）
 
 #Go 安装：
-  1）
+  1）语言环境：https://golang.org/dl/  ==>下载对应的系统的版本
+  2）IDE:GoLand ,liteIDE,vim+vimgo, VS，sublime+go_plugin
+  3) 对比IDE:
+  
